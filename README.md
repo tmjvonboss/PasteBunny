@@ -1,0 +1,2 @@
+# PasteBunny
+Pastebin wrapper
