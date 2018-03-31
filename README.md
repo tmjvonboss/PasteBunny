@@ -25,11 +25,14 @@ $ pip3 install aiohttp aiodns cchardet asyncio
 
 ### Installation
 
-Installation is as easy as running the setup.py, I don't know how to add it to PyPip so..., too bad.
-
+Installation is as easy as running the setup.py
 ```sh
 $ git clone https://github.com/tmjvonboss/PasteBunny.git
 $ python3 setup.py install
+```
+OR using PyPI now
+```sh
+$ pip3 install PasteBunny
 ```
 
 ### Examples
